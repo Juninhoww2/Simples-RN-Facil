@@ -13,3 +13,10 @@ git clone
 nmp install 
 
 ´´´
+
+e rode 
+para iniciar com TypeScript
+npx react-native init AwesomeTSProject --template react-native-template-typescript
+
+ou com JavaScript
+npx react-native init AwesomeTSProject 
